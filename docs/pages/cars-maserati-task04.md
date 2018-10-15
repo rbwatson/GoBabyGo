@@ -13,13 +13,13 @@ Remove the dashboard
 1. Remove the plastic bag from the car's dashboard and locate the connectors that hold the dashboard to the car body (indicated by the arrow in this photo). <br />![Dashboard connectors]({{ site.baseurl }}/assets/images/maserati-task04-001.jpg)
 2. **DO NOT PULL ON THE WIRES** to separate the connector shells. Apply tension only to the connector shells.<br />![Dashboard connectors - close up]({{ site.baseurl }}/assets/images/maserati-task04-002.jpg)
 3. One at a time, disconnect each of the connectors that attach the dashboard to car body. Note that each connector has a different locking tab that must be pressed to separate the connector shells.
-	a.  The black connector: 
+	A.  The black connector: 
 		1.  Locate the tab shown in the photo and press the tab in the direction indicated by the arrow.<br />![Black dashboard connector - close up]({{ site.baseurl }}/assets/images/maserati-task04-003.jpg)
 		2. Pull the two connector shells apart.
-	b.  The white connector with six wires on each side:
+	B.  The white connector with six wires on each side:
 		1.  Locate the tab and press it as shown in the photo. <br />![White 2x3 dashboard connector - close up]({{ site.baseurl }}/assets/images/maserati-task04-004.jpg)
 		2.  Pull on the connector shells to pull the two connector shells apart.
-	c.  The white connector with three wires on each side:
+	C.  The white connector with three wires on each side:
 		1.  Locate the tab and press it as shown in the photo. <br />![White 2x3 dashboard connector - close up]({{ site.baseurl }}/assets/images/maserati-task04-005.jpg)
 		2.  Pull on the connector shells to pull the two connector shells apart.
 4. Remove the dashboard and set it aside in a safe place.
